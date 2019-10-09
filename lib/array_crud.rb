@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   movies = ["Lion", "King", "arrays"]
-  movies.pop("arrays")
+  movies.pop
 end
 
 def remove_element_from_start_of_array(array)
